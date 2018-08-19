@@ -1,3 +1,10 @@
+This environment is composed of openresty.
+Refering to official site.
+
+https://openresty.org/en/
+
+http://nginx.org/en/docs/
+
 Add name resolver to your host machine.
 ```
 192.168.33.50   mypx.app-visor.com myapi.app-visor.com

@@ -7,8 +7,9 @@ http://nginx.org/en/docs/
 
 Add name resolver to your host machine.
 ```
-192.168.33.50   mypx.app-visor.com myapi.app-visor.com
-192.168.33.51   mypxd.app-visor.com
+192.168.33.60   mypx.app-visor.com myapi.app-visor.com
+192.168.33.61   myweb1.app-visor.com
+192.168.33.62   myweb2.app-visor.com
 ```
 
 Setup a machine.
